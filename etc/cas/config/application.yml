@@ -1,0 +1,6 @@
+server:
+  ssl:
+    enabled: true
+    keyStore: /etc/cas/fullchain.jks
+    keyStorePassword: keyStorePassword
+    keyPassword: keyPassword
